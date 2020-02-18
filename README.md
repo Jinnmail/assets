@@ -1,2 +1,2 @@
-# assets
-Design and other assets
+# design
+Planning UX, design assets. 
